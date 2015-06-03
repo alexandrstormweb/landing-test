@@ -13,8 +13,3 @@ home image - laptop mockup - http://pixabay.com/en/apple-imac-ipad-workplace-606
 
 contact image - http://pixabay.com/en/ipad-map-tablet-internet-screen-632394/
 
-<<<<<<< HEAD
-=======
-lalalalala
-
->>>>>>> exp
